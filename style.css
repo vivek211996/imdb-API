@@ -1,0 +1,11 @@
+.buttons{
+  
+    position: relative;
+  
+   text-align: center;
+}
+
+.input-group{
+    position: relative;
+    top: 50;
+}
